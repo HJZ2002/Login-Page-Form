@@ -1,6 +1,6 @@
 🔐 A Simple Login Page — Built With Heart
 
-My first real step into the world of frontend design.
+My first real step into the world of frontend development.
 Small in scope, but big in meaning.
 
 This is a clean and simple login page I built entirely from scratch using HTML, CSS, and a touch of JavaScript — not because I had to, but because I wanted to understand how things work.
